@@ -16,7 +16,7 @@ Continuous Knowledge Sharing → Regular updates with new concepts to help other
 
 Clone with GitHub Desktop or Git:
 
-git clone [https://github.com/AishaKhan-Bhatti/CppLearningJourney.git]
+git clone [https://github.com/Aishakhan-ak/CppLearningJourney.git]
 
 Open in your IDE (VSCode, CodeBlocks, etc.)
 
